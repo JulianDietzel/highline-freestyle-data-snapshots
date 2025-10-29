@@ -1,4 +1,4 @@
-# Highline Freestyle App State Records
+# Highline Freestyle Data Snapshots
 
 This repo is meant for keeping records of the Local Storage and the (Dexie)
 IndexDB of the [Highline Freestlye App](https://github.com/bastislack/highline-freestyle).
