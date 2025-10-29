@@ -47,7 +47,7 @@ simply not do that and copy the entire thing over via the clipboard.
    ```
    (If xclip is not available for you, simply remove it and the pipe (`|`) and just copy the terminal output)
 2. On the Highline Freestyle Website open the console and run the following code snipped with your clipboard content inserted in the marked place:
-   ```json
+   ```js
    localStorage.clear();
    var data = JSON.parse(/* Your clipboard content here */);
    Object.keys(data).forEach(function (k) {
